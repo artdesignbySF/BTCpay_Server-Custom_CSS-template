@@ -1,0 +1,193 @@
+/*==============================CREDITS=================================*/
+/*	Custom BTCpay Server CSS template originally made for          	*/
+/*	@BitcoinCookie https://www.bitcoinfortunecookie.com by @artdesignbySF.                 	*/
+/*	Uploaded with their permission.                                	*/
+/*	PLEASE CONSIDER DONATING BITCOIN IF YOU FIND 		       	*/
+/*	THIS FILE USEFULL: 3L2K9wypgs3xage6fZk6LXJSKxUsUKFDNM	      	*/
+/*	Follow @artdesignbySF on Twitter			      	*/
+/*============================END CREDITS===============================*/
+
+/*============================DISCLAIMER================================*/
+/*	Might not be the most efficient or correct way of implementing	*/
+/*	CSS. I am not responsable for breaking your website if things   */
+/*	go wrong. PEACE / LOVE / BITCOIN			      	*/
+/*==========================END DISCLAIMER==============================*/
+
+html {
+    background-color: #00c3ff !important;
+}
+
+.modal.page {
+    background-color: #00c3ff;
+}
+
+.top-header {
+    background-color: #408cca;
+}
+
+.top-header .timer-row__progress-bar {
+  border-top: 1px solid #00c3ff;
+    border-bottom: 1px solid #00c3ff;
+    background: #00c3ff;
+}
+
+.top-header .timer-row {
+    border-top: 1px solid #00c3ff;
+      border-bottom: 1px solid #00c3ff;
+    background: #27384b;
+}
+
+.header__icon__img {
+   display: block;
+  margin-left: 50px;
+}
+
+.btnGroupLnd {
+  border-radius:6px;
+}
+
+.payment-tabs__slider {
+    background: #00c3ff;
+}
+
+.action-button {
+    color: #fff !important;
+    background-image: linear-gradient(to bottom, #00c3ff, #408cca);
+  border-color:#fff;
+  box-shadow: 0px 0px 15px -3px #000000;
+}
+
+.action-button:active {
+    background-image: linear-gradient(to top, #00c3ff, #408cca);
+  border-color:#fff;
+}
+
+.action-button:hover {
+    background-image: linear-gradient(to top, #00c3ff, #408cca);
+  border-color:#fff;
+}
+
+.btnGroupLnd {
+    box-shadow: 0px 0px 15px -3px #000000;
+         background-image: linear-gradient(to right, #00c3ff, #408cca);
+
+  border-color:#fff;
+}
+
+.btnGroupLnd button {
+  background-image:  linear-gradient(to right, #00c3ff, #408cca);
+  background-color:#00c3ff;
+  border-color: #fff;
+}
+
+.btnGroupLnd button.active {
+  background-image:  linear-gradient(to left, #00c3ff, #408cca);
+  background-color:#00c3ff;
+  border-color: #fff;
+}
+
+.invoice {
+    background-color: #408cca;
+   border-radius: 5px;
+}
+
+.payment-box {
+  height: 420px;
+}
+
+.payment__scan {
+	width:276px;
+	height:276px;
+	margin-left:auto;
+	margin-right:auto;
+	border: 10px solid #fff;
+}
+
+.expired__body {
+    color: #fff;
+}
+
+.currency-selection {
+    background-color: #27384b;
+    border-bottom: 0px solid #00c3ff;
+    color: #fff;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    height: auto;
+}
+
+.line-items {
+    background-color: #111316;
+    color: #fff !important;
+      padding-top: 15px;
+    padding-bottom: 10px;
+    border-top: 1px solid #00c3ff !important;
+        border-bottom: 0px solid #00c3ff;
+}
+
+.buyerTotalLine {
+    border-top: 1px solid #00c3ff;
+    background-color: #27384b;
+    color: #fff;
+      padding-top: 15px;
+    padding-bottom: 12px;
+}
+
+.payment-tabs {
+    background-color: #27384b;
+    color: #fff;
+    border-top: 1px solid #00c3ff;
+  border-bottom: 1px solid #00c3ff;
+}
+
+.payment-tabs__tab .active {
+    color: #00c3ff;
+    background-color:#fff;
+}
+
+.payment-tabs__tab.active {
+    color: #00c3ff;
+}
+
+a {
+   color: #27384b !important;
+}
+
+span {
+  color:#fff;
+}
+
+canvas {
+    border: 5px solid #fff;
+}
+
+#prettydropdown-DefaultLang ul {
+    color: #fff !important;
+    background-color: #15171c !important;
+}
+
+.manual__step-one__header {
+    color: #ffffff;
+}
+.manual__step-one__instructions {
+    color: #ffffff;
+}
+
+.recommended-fee {
+  opacity:0;
+}
+
+/*==============================CREDITS=================================*/
+/*	Custom BTCpay Server CSS template originally made for          	*/
+/*	https://thecryptocloak.com/ by @artdesignbySF.                 	*/
+/*	Uploaded with their permission.                                	*/
+/*	PLEASE CONSIDER DONATING BITCOIN IF YOU FIND 		       	*/
+/*	THIS FILE USEFULL: 3L2K9wypgs3xage6fZk6LXJSKxUsUKFDNM	      	*/
+/*	Follow @artdesignbySF on Twitter			      	*/
+/*============================END CREDITS===============================*/
+
+/*============================DISCLAIMER================================*/
+/*	Might not be the most efficient or correct way of implementing	*/
+/*	CSS. I am not responsable for breaking your website if things   */
+/*	go wrong. PEACE / LOVE / BITCOIN			      	*/
+/*==========================END DISCLAIMER==============================*/
