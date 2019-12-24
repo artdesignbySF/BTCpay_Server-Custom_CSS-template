@@ -21,6 +21,10 @@ html {
 .modal.page {
     background-color: #00c3ff; 	/*===BACKGROUND COLOR===*/
 }
+
+.modal-content {
+	border-radius: 6px 6px 6px 6px;
+}
 /*=============================*/
 
 /*=======HEADER SETTINGS=======*/
