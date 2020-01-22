@@ -3,7 +3,7 @@ A custom made CSS file for BTCpay Server.
 
 Custom BTCpay Server CSS template made by @artdesignbySF.
 
-Please consider donating some bitcoin and following @artdesignbySF on Twitter if you find these files useful: 3L2K9wypgs3xage6fZk6LXJSKxUsUKFDNM
+Please consider donating some bitcoin and following @artdesignbySF on Twitter if you find these files useful: 37sNeQv8c8M9ovEJnCYJ72U7stAV88DMPH
 
 
 DISCLAIMER:
